@@ -10,6 +10,7 @@ Contact me: zp@buaa.us
 [![Build Status](https://travis-ci.org/buaazp/zimg.svg?branch=master)](https://travis-ci.org/buaazp/zimg) [![wercker status](https://app.wercker.com/status/88aead2017ceb80b32fad3dc8997227a/s "wercker status")](https://app.wercker.com/project/bykey/88aead2017ceb80b32fad3dc8997227a) [![Build Status](https://drone.io/github.com/buaazp/zimg/status.png)](https://drone.io/github.com/buaazp/zimg/latest)  
 
 ### Versions:
+- 05/29/2016 - 增加nginx配合zimg部署例子，使用nginx反向代理zimg并缓存，对上传接口和管理接口进行ip授权限制.
 - 09/09/2014 - zimg 3.1.0 Release. New generation.
 - 04/26/2014 - zimg 2.0.0 Release. Supported distributed storage backends.
 - 08/01/2013 - zimg 1.0.0 Release.
